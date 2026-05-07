@@ -9,41 +9,119 @@
 
 ---
 
-## 1. Introducción
-Este portafolio digital tiene como objetivo documentar el progreso académico y los conocimientos adquiridos en la asignatura de **Matemáticas Discretas**. La materia es fundamental para la formación en computación, ya que proporciona las bases lógicas y estructuras matemáticas necesarias para el diseño de algoritmos y circuitos digitales.
+# Portafolio de Matemática Discreta – ACD1
 
-## 2. Objetivos de la Unidad 1
-*   Comprender y aplicar los principios de la **Lógica Proposicional**.
-*   Dominar el uso de tablas de verdad y leyes de equivalencia lógica (De Morgan, Distributivas, etc.).
-*   Representar funciones lógicas mediante Formas Normales Conjuntivas (FNC) y Disyuntivas (FND).
-*   Vincular la lógica formal con el diseño de compuertas y circuitos electrónicos.
+**Estudiante:** Alison Cristina Ramirez Villavicencio
 
-## 3. Registro de Actividades y Contenidos
+**Docente:** Ing. Mario Enrique Cueva 
 
-### Lógica Formal y Simbolización
-En esta sección se abordan los procesos de transformación del lenguaje natural al lenguaje formal, priorizando el análisis crítico sobre las definiciones académicas tradicionales.
+**Asignatura:** Matemáticas Discretas  
 
-### Álgebra de Boole y Circuitos
-Registro de prácticas relacionadas con la reducción de circuitos mixtos y el cálculo de potencias en componentes electrónicos, integrando la teoría de circuitos con la lógica matemática.
+**Ciclo:** Primer Ciclo - Computación  
 
-## 4. Herramientas Utilizadas
-Para la gestión de este portafolio y el desarrollo de actividades académicas se han empleado:
-*   **Visual Studio Code:** Para la redacción de documentos técnicos.
-*   **GitHub:** Para el control de versiones y almacenamiento del repositorio.
-*   **Markdown:** Para la estructuración profesional del contenido.
-
-## 5. Reflexión Académica
-El paso de la teoría de la programación a las matemáticas discretas permite entender que la computación no es solo escribir código, sino un proceso de transformación de lenguaje humano en procesos algorítmicos ejecutables por una máquina.
-
-## 6. Bibliografía (Formato IEEE)
-[1] R. Johnsonbaugh, *Matemáticas Discretas*, 8va ed. Ciudad de México: Pearson, 2018.  
-[2] K. H. Rosen, *Discrete Mathematics and Its Applications*, 8th ed. New York: McGraw-Hill, 2019.
----
-<div align="center">
-<b>Facultad de la Energía, las Industrias y los Recursos Naturales No Renovables</b><br>
-Loja, Ecuador - 2026
-</div>
+**Fecha:** 7 de mayo de 2026
 
 ---
 
-**<strong><a href="README.md">***INICIO***</a></strong>**
+## 📑 Índice
+1. [Resumen Teórico](#1-resumen-teórico)
+2. [Ejercicios Resueltos](#2-ejercicios-resueltos)
+3. [Ejercicio Aplicado](#3-ejercicio-applied)
+4. [Reflexión Personal](#4-reflexión-personal)
+
+---
+
+## 1. 📖 Resumen Teórico
+
+### ● Definición de Proposición
+Una proposición es un enunciado declarativo que puede ser calificado como **verdadero (V)** o **falso (F)**, pero no ambos a la vez. Desde una perspectiva computacional, las considero la unidad básica de procesamiento de información lógica.
+
+### ● Tipos de Proposiciones
+*   **Simples (Atómicas):** No contienen conectores lógicos. 
+    *   *Ejemplo:* "La computadora está encendida".
+*   **Compuestas (Moleculares):** Resultan de la unión de dos o más proposiciones mediante conectores.
+    *   *Ejemplo:* "La computadora está encendida **y** tiene conexión a internet".
+
+### ● Conectores Lógicos
+| Símbolo | Nombre | Lectura | Definición Corta |
+|:---:|:---:|:---:|:---|
+| ¬ | Negación | No | Invierte el valor original. |
+| ∧ | Conjunción | Y | Verdadera solo si ambas son V. |
+| ∨ | Disyunción | O | Falsa solo si ambas son F. |
+| → | Condicional | Si... entonces | Falsa solo si el antecedente es V y el consecuente F. |
+| ↔ | Bicondicional | Si y solo si | Verdadera si ambos valores son iguales. |
+
+### ● Explicación de Tablas de Verdad
+Son herramientas que permiten analizar todas las combinaciones posibles de valores de verdad de un argumento. Se clasifican en:
+*   **Tautología:** El resultado final es siempre verdadero.
+*   **Contradicción:** El resultado final es siempre falso.
+*   **Contingencia:** El resultado final alterna entre V y F.
+
+### ● Principales Leyes Lógicas
+Permiten la simplificación de expresiones complejas:
+*   **Leyes de De Morgan:** $\neg(p \land q) \equiv \neg p \lor \neg q$ y $\neg(p \lor q) \equiv \neg p \land \neg q$.
+*   **Doble Negación:** $\neg(\neg p) \equiv p$.
+*   **Idempotencia:** $p \land p \equiv p$ ; $p \lor p \equiv p$.
+*   **Conmutativa:** $p \land q \equiv q \land p$.
+
+### ● Reglas de Inferencia
+Esquemas para deducir conclusiones válidas:
+*   **Modus Ponendo Ponens (MPP):** Si $[(p \to q) \land p] \implies q$.
+*   **Modus Tollendo Tollens (MTT):** Si $[(p \to q) \land \neg q] \implies \neg p$.
+*   **Silogismo Hipotético:** Si $[(p \to q) \land (q \to r)] \implies (p \to r)$.
+
+---
+---
+
+## 2. 📊 Ejercicios Resueltos
+
+### Ejercicio 1: Traducción y Tabla
+**Enunciado:** "Si estudio para la lección de programación y practico algoritmos a mano, entonces aprobaré el ciclo".
+*   **Proposiciones:**
+    *   p: Estudio para la lección.
+    *   q: Practico algoritmos a mano.
+    *   r: Aprobaré el ciclo.
+*   **Simbolización:** $(p \land q) \to r$
+*   **Procedimiento:** (Aquí debes dibujar la tabla de 8 filas).
+
+*(Nota: Debes completar los 4 ejercicios restantes siguiendo esta estructura de paso a paso)*.
+
+---
+
+## 3. 🧠 Ejercicio Aplicado (Caso Real)
+
+**Problema:** Un estudiante de la UNL necesita entregar una tarea, pero su laptop fue entregada tarde.
+*   **Proposiciones:**
+    *   p: Entregan la laptop el jueves de noche.
+    *   q: El estudiante termina la tarea a tiempo.
+*   **Expresión:** $p \to \neg q$
+*   **Análisis:** Si la entrega de la herramienta de trabajo es tardía ($p$ es V), se deduce lógicamente la imposibilidad de cumplir el plazo original ($\neg q$ es V).
+
+---
+
+---
+
+## 📂 Anexos: Aprendizaje Práctico Experimental (APE)
+
+A continuación, se presentan los enlaces a las actividades prácticas desarrolladas. Todos los archivos se encuentran alojados en el repositorio de Google Drive de la asignatura:
+
+| Actividad | Recurso | Enlace Directo |
+|:---:|:---|:---:|
+| **Carpeta General** | Todos los APE (1 al 6) | [📁 Acceder a Drive](https://drive.google.com/drive/folders/1glwZf-NODxVgNpHMM8H6M5cQ_cgqSs8U) |
+| **APE 01** | Lógica y Simbolización | [🔗 Ver Documento](https://drive.google.com/drive/folders/1glwZf-NODxVgNpHMM8H6M5cQ_cgqSs8U) |
+| **APE 02** | Tablas de Verdad | [🔗 Ver Documento](https://drive.google.com/drive/folders/1glwZf-NODxVgNpHMM8H6M5cQ_cgqSs8U) |
+| **APE 03** | Leyes Lógicas | [🔗 Ver Documento](https://drive.google.com/drive/folders/1glwZf-NODxVgNpHMM8H6M5cQ_cgqSs8U) |
+| **APE 04** | Circuitos y Compuertas | [🔗 Ver Documento](https://drive.google.com/drive/folders/1glwZf-NODxVgNpHMM8H6M5cQ_cgqSs8U) |
+| **APE 05** | Reglas de Inferencia | [🔗 Ver Documento](https://drive.google.com/drive/folders/1glwZf-NODxVgNpHMM8H6M5cQ_cgqSs8U) |
+| **APE 06** | Proyecto de Unidad | [🔗 Ver Documento](https://drive.google.com/drive/folders/1glwZf-NODxVgNpHMM8H6M5cQ_cgqSs8U) |
+
+> **Instrucción para el docente:** Al hacer clic en los enlaces, se abrirá la carpeta de Google Drive que contiene las evidencias, ejercicios y capturas de pantalla de cada actividad práctica.
+
+## 4. 🔍 Reflexión Personal
+
+*   **¿Qué fue lo más difícil de entender?**
+    La aplicación de las reglas de inferencia en argumentos complejos y la simplificación de formas normales (FNC/FND).
+*   **¿Qué tema comprendí mejor?**
+    La construcción de tablas de verdad y la relación entre conectores lógicos y compuertas para circuitos electrónicos.
+*   **¿Cómo puedo aplicar la lógica en mi carrera?**
+    La lógica proposicional es la base para diseñar algoritmos eficientes en C y para entender el funcionamiento del hardware mediante álgebra de Boole.
