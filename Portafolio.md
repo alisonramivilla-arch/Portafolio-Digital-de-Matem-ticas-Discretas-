@@ -23,6 +23,11 @@
 
 ---
 
+## Objetivo del Portafolio
+
+*Consolidar el aprendizaje de lógica proposicional mediante la elaboración de un portafolio que evidencie comprensión teórica, desarrollo de ejercicios y aplicación práctica.*
+---
+
 ## 📑 Índice
 1. [Resumen Teórico](#1-resumen-teórico)
 2. [Ejercicios Resueltos](#2-ejercicios-resueltos)
