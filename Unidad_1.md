@@ -80,7 +80,7 @@ Esquemas para deducir conclusiones válidas:
 
 ## 2. 📊 Ejercicios Resueltos
 
-### Encuentre todos los ejercicios aquí
+### *Encuentre todos los ejercicios aquí*
 * [Ejercicios_Resueltos_📊](./Evidencias)
 
 ### Ejercicio 1: Traducción de lenguaje natural a simbólico  
