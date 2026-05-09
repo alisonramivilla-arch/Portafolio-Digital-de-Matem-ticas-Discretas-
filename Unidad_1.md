@@ -81,19 +81,19 @@ Esquemas para deducir conclusiones válidas:
 ## 2. 📊 Ejercicios Resueltos
 
 ### Ejercicio 1: Traducción de lenguaje natural a simbólico  
-* [Ver resolución en PDF](./Evidencias/.pdf)
+* [Ver resolución en PDF](./Evidencias/ejercicios_A.pdf)
 
 ### Ejercicio 2: Construcción de tablas de verdad  
-* [Ver resolución en PDF](./anexos/ejercicio_2.pdf)
+* [Ver resolución en PDF](./Evidencias/ejercicios_B.pdf)
 
 ### Ejercicio 3: Identificación de tautologías, contradicciones y contingencias  
-* [Ver resolución en PDF](./anexos/ejercicio_1.pdf)
+* [Ver resolución en PDF](./Evidencias/ejercicios_C.pdf)
 
 ### Ejercicio 4:  Aplicación de leyes proposicionales  
-* [Ver resolución en PDF](./anexos/ejercicio_2.pdf)
+* [Ver resolución en PDF](./Evidencias/ejercicios_D.pdf)
 
 ### Ejercicio 5: Validación de argumentos  
-* [Ver resolución en PDF](./anexos/ejercicio_1.pdf)
+* [Ver resolución en PDF](./Evidencias/ejercicios_E.pdf)
 
 
 ---
