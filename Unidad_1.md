@@ -133,16 +133,17 @@ Esquemas para deducir conclusiones válidas:
 
 ### 3. 🧠 Ejercicio Aplicado (Caso Real)
 <details>
-  <summary><b>💡 CLIC PARA VER CASO: Conectividad Universitaria</b></summary>
+  <summary><b>💡 CLIC PARA VER CASO: Acceso al Sistema Académico</b></summary>
 
-  *   **Planteamiento:** Acceso a clases virtuales mediante Wi-Fi o datos móviles.
-  *   **Definición de proposiciones:** 
-      * $p$: Acceso a Wi-Fi.
-      * $q$: Tiene datos móviles.
-      * $r$: Participa en sesión virtual.
-  *   **Expresión simbólica:** $(p \lor q) \rightarrow r$.
-  *   **Análisis:** Se utiliza Modus Ponens para confirmar la participación si se cumple una de las condiciones.
-  *   **Conclusión:** El estudiante logra conectarse exitosamente.
+  * **Planteamiento:** Se analiza la seguridad de acceso a una plataforma académica:
+    ## "Si el usuario ingresa la contraseña correcta o utiliza el reconocimiento facial, entonces se concede el acceso al sistema".
+  * **Definición de proposiciones:** 
+    * $p$: El usuario ingresa la contraseña correcta.
+    * $q$: El usuario utiliza el reconocimiento facial.
+    * $r$: Se concede el acceso al sistema.
+  * **Expresión simbólica:** $(p \lor q) \to r$.
+  * **Conclusión:** El sistema valida la identidad y el acceso se concede satisfactoriamente ($r = V$).
+  * **Resolución:** [📄 EJERCICO APLICADO](./Evidencias/EJERCICIO_DE_LÓGICA_PROPOSICIONAL.pdf)
 </details>
 
 ---
@@ -151,8 +152,8 @@ Esquemas para deducir conclusiones válidas:
 <details>
   <summary><b>🤔 CLIC PARA LEER MI APRENDIZAJE</b></summary>
 
-  *   **¿Qué fue lo más difícil de entender?** [Escribe aquí tu experiencia personal]
-  *   **¿Qué tema comprendí mejor?** [Escribe aquí el tema que dominas mejor]
+  *   **¿Qué fue lo más difícil de entender?** [No comsidero que existieran realmente adversidades en el momento de comprender los temas expuestos, pero debo recalcar que el uso de las leyes de inferencia representó un pequeño momento de confusión al intentar descubrir qué ley usar en cada caso. Pero luego de ejercer distintas prácticas, se me ha facilitado el uso de las Leyes mencionadas ]
+  *   **¿Qué tema comprendí mejor?** [Las Tablas De Verdad, es un tema del que ya tenía bases provenienes del colegio, por lo tanto, la aplicación de las mismas fue considerablemente sencillo.]
   *   **¿Cómo puedo aplicar la lógica en mi carrera?** Como estudiante de Computación en la **Universidad Nacional de Loja**, la lógica proposicional es la base para el desarrollo de algoritmos y la resolución de problemas técnicos.
 </details>
 
