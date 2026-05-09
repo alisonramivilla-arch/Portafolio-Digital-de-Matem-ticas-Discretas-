@@ -143,7 +143,7 @@ Esquemas para deducir conclusiones válidas:
     * $r$: Se concede el acceso al sistema.
   * **Expresión simbólica:** $(p \lor q) \to r$.
   * **Conclusión:** El sistema valida la identidad y el acceso se concede satisfactoriamente ($r = V$).
-  * **Resolución:** [📄 EJERCICO APLICADO](./Evidencias/EJERCICIO_DE_LÓGICA_PROPOSICIONAL.pdf)
+  * **Resolución:** [📄 EJERCICO APLICADO](.Evidencias/EJERCICIO_DE_LÓGICA_PROPOSICIONAL.pdf)
 </details>
 
 ---
