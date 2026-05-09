@@ -80,16 +80,21 @@ Esquemas para deducir conclusiones válidas:
 
 ## 2. 📊 Ejercicios Resueltos
 
-### Ejercicio 1: Traducción y Tabla
-**Enunciado:** "Si estudio para la lección de programación y practico algoritmos a mano, entonces aprobaré el ciclo".
-*   **Proposiciones:**
-    *   p: Estudio para la lección.
-    *   q: Practico algoritmos a mano.
-    *   r: Aprobaré el ciclo.
-*   **Simbolización:** $(p \land q) \to r$
-*   **Procedimiento:** (Aquí debes dibujar la tabla de 8 filas).
+### Ejercicio 1: Traducción de lenguaje natural a simbólico  
+* [Ver resolución en PDF](./Evidencias/.pdf)
 
-*(Nota: Debes completar los 4 ejercicios restantes siguiendo esta estructura de paso a paso)*.
+### Ejercicio 2: Construcción de tablas de verdad  
+* [Ver resolución en PDF](./anexos/ejercicio_2.pdf)
+
+### Ejercicio 3: Identificación de tautologías, contradicciones y contingencias  
+* [Ver resolución en PDF](./anexos/ejercicio_1.pdf)
+
+### Ejercicio 4:  Aplicación de leyes proposicionales  
+* [Ver resolución en PDF](./anexos/ejercicio_2.pdf)
+
+### Ejercicio 5: Validación de argumentos  
+* [Ver resolución en PDF](./anexos/ejercicio_1.pdf)
+
 
 ---
 
