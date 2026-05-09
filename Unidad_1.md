@@ -152,9 +152,15 @@ Esquemas para deducir conclusiones válidas:
 <details>
   <summary><b>🤔 CLIC PARA LEER MI APRENDIZAJE</b></summary>
 
-  *   **¿Qué fue lo más difícil de entender?** [No comsidero que existieran realmente adversidades en el momento de comprender los temas expuestos, pero debo recalcar que el uso de las leyes de inferencia representó un pequeño momento de confusión al intentar descubrir qué ley usar en cada caso. Pero luego de ejercer distintas prácticas, se me ha facilitado el uso de las Leyes mencionadas ]
-  *   **¿Qué tema comprendí mejor?** [Las Tablas De Verdad, es un tema del que ya tenía bases provenienes del colegio, por lo tanto, la aplicación de las mismas fue considerablemente sencillo.]
-  *   **¿Cómo puedo aplicar la lógica en mi carrera?** Como estudiante de Computación en la **Universidad Nacional de Loja**, la lógica proposicional es la base para el desarrollo de algoritmos y la resolución de problemas técnicos.
+  *   **¿Qué fue lo más difícil de entender?**
+
+      *No considero que existieran realmente adversidades en el momento de comprender los temas expuestos, pero debo recalcar que el uso de las leyes de inferencia representó un pequeño momento de confusión al intentar descubrir qué ley usar en cada caso. Pero luego de ejercer distintas prácticas, se me ha facilitado el uso de las Leyes mencionadas.*
+  *   **¿Qué tema comprendí mejor?**
+
+      *Las Tablas De Verdad, es un tema del que ya tenía bases provenienes del colegio, por lo tanto, la aplicación de las mismas fue considerablemente sencillo.*
+  *   **¿Cómo puedo aplicar la lógica en mi carrera?**
+
+      *Como estudiante de Computación en la **Universidad Nacional de Loja**, la lógica proposicional es la base para el desarrollo de algoritmos y la resolución de problemas técnicos.*
 </details>
 
 ## 📂 Anexos: Aprendizaje Práctico Experimental (APE)
