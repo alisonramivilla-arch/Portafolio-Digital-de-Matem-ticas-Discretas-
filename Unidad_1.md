@@ -78,41 +78,83 @@ Esquemas para deducir conclusiones válidas:
 ---
 ---
 
-## 2. 📊 Ejercicios Resueltos
+### 2. 📊 Ejercicios Resueltos (Mínimo 5)
+*Explora el desarrollo paso a paso y las herramientas de verificación para cada categoría.*
 
-### *Encuentre todos los ejercicios aquí*
-* [Ejercicios_Resueltos_📊](./Evidencias)
+> ### *Encuentre todos los ejercicios aquí*
+> * [Ejercicios_Resueltos_📊](./Evidencias)
 
-### Ejercicio 1: Traducción de lenguaje natural a simbólico  
-* [Ver resolución en PDF](./Evidencias/ejercicios_A.pdf)
+<details>
+  <summary><b>🔣 Ejercicio 1: Traducción de lenguaje natural a simbólico</b></summary>
 
-### Ejercicio 2: Construcción de tablas de verdad  
-* [Ver resolución en PDF](./Evidencias/ejercicios_B.pdf)
+  *   **Descripción:** Conversión de enunciados cotidianos a fórmulas lógicas.
+  *   **Resolución:** [📄 Ver resolución en PDF](./Evidencias/ejercicios_A.pdf)
+  *   **Evidencia en la nube:** [📂 Google Drive Backup](https://drive.google.com/drive/folders/1YarHL1AHvEaN6RDQ8HCnw1_Pt0CQMoC7_)
+  *   **Laboratorio Virtual:** [Simulador de Traducción Lógica](https://web.stanford.edu/class/cs103/tools/truth-table-tool/)
+</details>
 
-### Ejercicio 3: Identificación de tautologías, contradicciones y contingencias  
-* [Ver resolución en PDF](./Evidencias/ejercicios_C.pdf)
+<details>
+  <summary><b>📋 Ejercicio 2: Construcción de tablas de verdad</b></summary>
 
-### Ejercicio 4:  Aplicación de leyes proposicionales  
-* [Ver resolución en PDF](./Evidencias/ejercicios_D.pdf)
+  *   **Descripción:** Análisis exhaustivo de todas las combinaciones de verdad posibles.
+  *   **Resolución:** [📄 Ver resolución en PDF](./Evidencias/ejercicios_B.pdf)
+  *   **Evidencia en la nube:** [📂 Google Drive Backup](https://drive.google.com/drive/folders/1YarHL1AHvEaN6RDQ8HCnw1_Pt0CQMoC7_)
+  *   **Laboratorio Virtual:** [Generador Automático de Tablas](https://mrieppel.net/prog/truthtable.html)
+</details>
 
-### Ejercicio 5: Validación de argumentos  
-* [Ver resolución en PDF](./Evidencias/ejercicios_E.pdf)
+<details>
+  <summary><b>⚖️ Ejercicio 3: Identificación de tautologías, contradicciones y contingencias</b></summary>
 
+  *   **Descripción:** Clasificación del resultado final de una tabla de verdad.
+  *   **Resolución:** [📄 Ver resolución en PDF](./Evidencias/ejercicios_C.pdf)
+  *   **Evidencia en la nube:** [📂 Google Drive Backup](https://drive.google.com/drive/folders/1YarHL1AHvEaN6RDQ8HCnw1_Pt0CQMoC7_)
+  *   **Laboratorio Virtual:** [Verificador de Clasificación Lógica](https://www.erpelstolz.at/gateway/TruthTable.html)
+</details>
+
+<details>
+  <summary><b>🛠️ Ejercicio 4: Aplicación de leyes proposicionales</b></summary>
+
+  *   **Descripción:** Simplificación de expresiones mediante reglas lógicas.
+  *   **Resolución:** [📄 Ver resolución en PDF](./Evidencias/ejercicios_D.pdf)
+  *   **Evidencia en la nube:** [📂 Google Drive Backup](https://drive.google.com/drive/folders/1YarHL1AHvEaN6RDQ8HCnw1_Pt0CQMoC7_)
+  *   **Laboratorio Virtual:** [Calculadora de Álgebra Booleana](https://www.boolean-algebra.com/)
+</details>
+
+<details>
+  <summary><b>✅ Ejercicio 5: Validación de argumentos</b></summary>
+
+  *   **Descripción:** Demostración de la validez de una conclusión a partir de premisas.
+  *   **Resolución:** [📄 Ver resolución en PDF](./Evidencias/ejercicios_E.pdf)
+  *   **Evidencia en la nube:** [📂 Google Drive Backup](https://drive.google.com/drive/folders/1YarHL1AHvEaN6RDQ8HCnw1_Pt0CQMoC7_)
+  *   **Laboratorio Virtual:** [Probador de Validez Lógica](https://www.umsu.de/trees/)
+</details>
 
 ---
 
-## 3. 🧠 Ejercicio Aplicado (Caso Real)
+### 3. 🧠 Ejercicio Aplicado (Caso Real)
+<details>
+  <summary><b>💡 CLIC PARA VER CASO: Conectividad Universitaria</b></summary>
 
-**Problema:** Un estudiante de la UNL necesita entregar una tarea, pero su laptop fue entregada tarde.
-*   **Proposiciones:**
-    *   p: Entregan la laptop el jueves de noche.
-    *   q: El estudiante termina la tarea a tiempo.
-*   **Expresión:** $p \to \neg q$
-*   **Análisis:** Si la entrega de la herramienta de trabajo es tardía ($p$ es V), se deduce lógicamente la imposibilidad de cumplir el plazo original ($\neg q$ es V).
+  *   **Planteamiento:** Acceso a clases virtuales mediante Wi-Fi o datos móviles.
+  *   **Definición de proposiciones:** 
+      * $p$: Acceso a Wi-Fi.
+      * $q$: Tiene datos móviles.
+      * $r$: Participa en sesión virtual.
+  *   **Expresión simbólica:** $(p \lor q) \rightarrow r$.
+  *   **Análisis:** Se utiliza Modus Ponens para confirmar la participación si se cumple una de las condiciones.
+  *   **Conclusión:** El estudiante logra conectarse exitosamente.
+</details>
 
 ---
 
----
+### 🔍 4. Reflexión Personal
+<details>
+  <summary><b>🤔 CLIC PARA LEER MI APRENDIZAJE</b></summary>
+
+  *   **¿Qué fue lo más difícil de entender?** [Escribe aquí tu experiencia personal]
+  *   **¿Qué tema comprendí mejor?** [Escribe aquí el tema que dominas mejor]
+  *   **¿Cómo puedo aplicar la lógica en mi carrera?** Como estudiante de Computación en la **Universidad Nacional de Loja**, la lógica proposicional es la base para el desarrollo de algoritmos y la resolución de problemas técnicos.
+</details>
 
 ## 📂 Anexos: Aprendizaje Práctico Experimental (APE)
 
@@ -129,12 +171,3 @@ A continuación, se presentan los enlaces a las actividades prácticas desarroll
 | **APE 06** | Proyecto de Unidad | [🔗 Ver Documento](https://drive.google.com/drive/folders/1glwZf-NODxVgNpHMM8H6M5cQ_cgqSs8U) |
 
 > **Instrucción para el docente:** Al hacer clic en los enlaces, se abrirá la carpeta de Google Drive que contiene las evidencias, ejercicios y capturas de pantalla de cada actividad práctica.
-
-## 4. 🔍 Reflexión Personal
-
-*   **¿Qué fue lo más difícil de entender?**
-    La aplicación de las reglas de inferencia en argumentos complejos y la simplificación de formas normales (FNC/FND).
-*   **¿Qué tema comprendí mejor?**
-    La construcción de tablas de verdad y la relación entre conectores lógicos y compuertas para circuitos electrónicos.
-*   **¿Cómo puedo aplicar la lógica en mi carrera?**
-    La lógica proposicional es la base para diseñar algoritmos eficientes en C y para entender el funcionamiento del hardware mediante álgebra de Boole.
