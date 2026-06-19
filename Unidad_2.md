@@ -5,7 +5,9 @@ A continuación, se presentan los enlaces a las actividades prácticas desarroll
 
 | Actividad | Recurso | Enlace Directo |
 |:---:|:---|:---:|
-| **Carpeta General** | Todos los APE (1 al 6) | [📁 Acceder a Drive](https://drive.google.com/drive/folders/1glwZf-NODxVgNpHMM8H6M5cQ_cgqSs8U) |
+| **Carpeta General** | Todas las actividades (U1) | [📁 Acceder a Drive](https://drive.google.com/drive/folders/1gjwJ6uDDJkDSbXJ0D-DGEcbvwSaViBo7?usp=drive_link) |
+| **ACD GRUPAL** | Lógica y Simbolización | [🔗 Ver Documento](https://drive.google.com/drive/folders/1glwZf-NODxVgNpHMM8H6M5cQ_cgqSs8U) |
+| **AA** | Lógica y Simbolización | [🔗 Ver Documento](https://drive.google.com/drive/folders/1glwZf-NODxVgNpHMM8H6M5cQ_cgqSs8U) |
 | **APE 01** | Lógica y Simbolización | [🔗 Ver Documento](https://drive.google.com/drive/folders/1glwZf-NODxVgNpHMM8H6M5cQ_cgqSs8U) |
 | **APE 02** | Tablas de Verdad | [🔗 Ver Documento](https://drive.google.com/drive/folders/1glwZf-NODxVgNpHMM8H6M5cQ_cgqSs8U) |
 | **APE 03** | Leyes Lógicas | [🔗 Ver Documento](https://drive.google.com/drive/folders/1glwZf-NODxVgNpHMM8H6M5cQ_cgqSs8U) |
