@@ -8,7 +8,7 @@ Esta unidad comprende el estudio de las estructuras de datos no lineales fundame
 
 *   **ACD (Aprendizaje en Contacto con el Docente):** Actividades teóricas y prácticas guiadas en clase para asimilar los conceptos clave.
 *   **AA (Aprendizaje Autónomo):** Ejercicios de profundización, investigación y resolución de problemas desarrollados de manera independiente.
-*   **APE (Aprendizaje Práctico Experimental):** Proyecto práctico integrador enfocado en la aplicación de los conocimientos en escenarios reales o simulados, desarrollado de forma secuencial en 3 fases.
+*   **APE (Aprendizaje Práctico Experimental):** Proyecto práctico integrador enfocado en la aplicación de los conocimientos en escenarios reales o simulados.
 *   **Evaluación Integradora:** Validación final de los conocimientos y competencias adquiridas a lo largo de toda la unidad.
 
 ---
@@ -17,31 +17,30 @@ Esta unidad comprende el estudio de las estructuras de datos no lineales fundame
 
 Los grafos son conjuntos de vértices conectados por aristas que permiten modelar redes de transporte, topologías de internet, y relaciones binarias complejas entre entidades.
 
-### 👥 Aprendizaje en Contacto con el Docente (ACD 2)
+### 👥 Aprendizaje en Contacto con el Docente (ACD 1)
 *   **Actividad:** [Nombre de la actividad de clase, ej: Representación de matrices de adyacencia]
 *   **Descripción:** Estudio de tipos de grafos (dirigidos, no dirigidos, valorados) y sus formas de representación matricial y en listas.
 *   **Evidencia:** [Enlace al documento/código de la actividad](ruta/al/archivo)
 
-### ✍️ Aprendizaje Autónomo (AA 2)
+### ✍️ Aprendizaje Autónomo (AA 1)
 *   **Actividad:** [Nombre de la tarea de autónomo, ej: Algoritmos de optimización en redes]
 *   **Descripción:** Aplicación práctica de algoritmos de camino mínimo (Dijkstra) y árboles de expansión mínima (Kruskal/Prim).
-*   **Evidencia:** [Enlace a la tarea](ruta/al/archivo)
+*   **Evidencia:** [Enlace a la tarea](https://drive.google.com/drive/u/0/folders/1Yqlxkbh4SbePHZ-Nit83vQ4srsNmSEXa)
 
 ---
 ## 🌲 Sección 2: Árboles
 
 Los árboles son grafos conexos acíclicos que permiten modelar estructuras jerárquicas (como sistemas de archivos o árboles de decisión) y optimizar procesos de búsqueda.
 
-### 👥 Aprendizaje en Contacto con el Docente (ACD 1)
+### 👥 Aprendizaje en Contacto con el Docente (ACD 2)
 *   **Actividad:** [Nombre de la actividad de clase, ej: Talleres de propiedades y recorrido de árboles]
 *   **Descripción:** Conceptos fundamentales de árboles, niveles, altura, y algoritmos de recorrido (Preorden, Inorden, Postorden).
 *   **Evidencia:** [Enlace al documento/código de la actividad](ruta/al/archivo)
 
-### ✍️ Aprendizaje Autónomo (AA 1)
+### ✍️ Aprendizaje Autónomo (AA 2)
 *   **Actividad:** [Nombre de la tarea de autónomo, ej: Resolución de ejercicios de árboles binarios]
 *   **Descripción:** Modelado de expresiones matemáticas mediante árboles binarios y cálculo de la altura y peso de estructuras dadas.
 *   **Evidencia:** [Enlace a la tarea](ruta/al/archivo)
-
 
 
 ---
@@ -50,17 +49,10 @@ Los árboles son grafos conexos acíclicos que permiten modelar estructuras jer�
 
 El componente práctico experimental de esta unidad se consolidó a través de un proyecto técnico dividido en tres fases consecutivas de desarrollo.
 
-### 🔹 Fase 1/2: Planificación y Modelado Conceptual
+### 🔹 Fase 1-5: GRAFOS Y ÁRBOLES
 *   **Descripción:** Identificación del problema, definición de los nodos/aristas o raíces/hojas pertinentes, y diseño de la estructura lógica en diagramas.
-*   **Evidencia:** [Enlace a la documentación de la Fase 1](ruta/al/archivo)
+*   **Evidencia:** [Enlace a la documentación de la Fase 1/5](ruta/al/archivo)
 
-### 🔹 Fase 3: Implementación y Desarrollo Algorítmico
-*   **Descripción:** Codificación de la estructura en lenguaje de programación C o su representación lógica detallada, implementando los métodos de recorrido o búsqueda requeridos.
-*   **Evidencia:** [Enlace al código/script de la Fase 2](ruta/al/archivo)
-
-### 🔹 Fase 3: Pruebas, Validación y Sustentación
-*   **Descripción:** Ejecución de casos de prueba para verificar la eficiencia del algoritmo, corrección de errores de desbordamiento o punteros, y conclusiones finales.
-*   **Evidencia:** [Enlace al informe final de la Fase 3](ruta/al/archivo)
 
 ---
 
