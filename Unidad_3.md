@@ -60,3 +60,7 @@ El componente práctico experimental de esta unidad se consolidó a través de u
 
 *   **Descripción:** Compendio de las evaluaciones teórica y práctica de la unidad 3, validando el dominio sobre árboles de decisión y optimización de grafos.
 *   **Evidencia:** [Enlace al examen o corrección de la evaluación](ruta/al/archivo)
+
+---
+
+**<strong><a href="Portafolio.md">***
