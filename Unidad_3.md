@@ -18,14 +18,14 @@ Esta unidad comprende el estudio de las estructuras de datos no lineales fundame
 Los grafos son conjuntos de vértices conectados por aristas que permiten modelar redes de transporte, topologías de internet, y relaciones binarias complejas entre entidades.
 
 ### 👥 Aprendizaje en Contacto con el Docente (ACD 1)
-*   **Actividad:** [Nombre de la actividad de clase, ej: Representación de matrices de adyacencia]
-*   **Descripción:** Estudio de tipos de grafos (dirigidos, no dirigidos, valorados) y sus formas de representación matricial y en listas.
-*   **Evidencia:** [Enlace al documento/código de la actividad](ruta/al/archivo)
+*   **Actividad:** [Exposición y Defensa de Estructuras de Grafos]
+*   **Descripción:** Exposición de tipos de grafos (dirigidos, no dirigidos) y sus formas de representación matricial y en listas.
+*   **Evidencia:** [Enlace al documento de la actividad](https://drive.google.com/drive/u/0/folders/1ZLzGzlcLQ4E6x6bNMW5t2YYtcaqoly8X)
 
 ### ✍️ Aprendizaje Autónomo (AA 1)
-*   **Actividad:** [Nombre de la tarea de autónomo, ej: Algoritmos de optimización en redes]
-*   **Descripción:** Aplicación práctica de algoritmos de camino mínimo (Dijkstra) y árboles de expansión mínima (Kruskal/Prim).
-*   **Evidencia:** [Enlace a la tarea](https://drive.google.com/drive/u/0/folders/1Yqlxkbh4SbePHZ-Nit83vQ4srsNmSEXa)
+*   **Actividad:** [TEORÍA DE GRAFOS]
+*   **Descripción:** Informe técnico de los elementos de los grafos con ejemplos para una  mejor comprensión.
+*   **Evidencia:** [Enlace al informe](https://drive.google.com/file/d/1EidkmTrNDkK2SRPo_5rDBV-iA-sb_oSU/view?usp=sharing)
 
 ---
 ## 🌲 Sección 2: Árboles
@@ -33,14 +33,14 @@ Los grafos son conjuntos de vértices conectados por aristas que permiten modela
 Los árboles son grafos conexos acíclicos que permiten modelar estructuras jerárquicas (como sistemas de archivos o árboles de decisión) y optimizar procesos de búsqueda.
 
 ### 👥 Aprendizaje en Contacto con el Docente (ACD 2)
-*   **Actividad:** [Nombre de la actividad de clase, ej: Talleres de propiedades y recorrido de árboles]
+*   **Actividad:** [Exposición y Defensa de Estructuras de Árboles]
 *   **Descripción:** Conceptos fundamentales de árboles, niveles, altura, y algoritmos de recorrido (Preorden, Inorden, Postorden).
-*   **Evidencia:** [Enlace al documento/código de la actividad](ruta/al/archivo)
+*   **Evidencia:** [Enlace al documento de la actividad](https://drive.google.com/drive/u/0/folders/1S-F_WolO1F9-91g2imMfVj-lpBjwy4CS)
 
 ### ✍️ Aprendizaje Autónomo (AA 2)
-*   **Actividad:** [Nombre de la tarea de autónomo, ej: Resolución de ejercicios de árboles binarios]
-*   **Descripción:** Modelado de expresiones matemáticas mediante árboles binarios y cálculo de la altura y peso de estructuras dadas.
-*   **Evidencia:** [Enlace a la tarea](ruta/al/archivo)
+*   **Actividad:** [Ensayo y Aplicaciones de Estructuras de Árboles]
+*   **Descripción:**  Dominar los conceptos fundamentales de la teoría de árboles, sus tipologías, optimización mediante códigos de prefijo y los algoritmos de recorrido.
+*   **Evidencia:** [Enlace al informe](https://drive.google.com/file/d/1mRbAivNMW-IDSVpiz5bblOYP3lyZJyv3/view?usp=sharing)
 
 
 ---
@@ -59,8 +59,9 @@ El componente práctico experimental de esta unidad se consolidó a través de u
 ## 📊 Evaluación Integradora de la Unidad
 
 *   **Descripción:** Compendio de las evaluaciones teórica y práctica de la unidad 3, validando el dominio sobre árboles de decisión y optimización de grafos.
-*   **Evidencia:** [Enlace al examen o corrección de la evaluación](ruta/al/archivo)
+*   **Evidencia:** [Enlace a las secciones del examén](https://drive.google.com/drive/u/0/folders/10Uq-oH2g_d-lOFZV1tX9j_DWF4jSJGUM)
 
 ---
 
-**<strong><a href="Portafolio.md">***
+<strong><a href="Portafolio.md">
+
