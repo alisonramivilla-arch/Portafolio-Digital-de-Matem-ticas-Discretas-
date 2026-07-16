@@ -11,7 +11,28 @@
 ---
 
 ## 📝 Introducción General del Ciclo
-Este portafolio digital es un espacio de compilación académica donde se registra el progreso técnico y teórico alcanzado en la asignatura de **Matemáticas Discretas**. Con el fin de demostrar la comprensión y aplicación de los fundamentos de la lógica proposicional, teoría de conjuntos y estructuras discretas, mediante el uso de herramientas digitales y la resolución de algoritmos que fortalezcan el razonamiento lógico necesario en la ingeniería de computación.
+
+La asignatura de **Matemáticas Discretas** constituye uno de los pilares fundamentales en la formación de un Ingeniero en Computación, ya que proporciona las bases matemáticas necesarias para comprender el funcionamiento de algoritmos, estructuras de datos, programación, inteligencia artificial, bases de datos, redes de computadoras y diseño de sistemas digitales.
+
+El presente portafolio digital recopila las evidencias académicas desarrolladas durante el ciclo, organizadas por unidades de aprendizaje. Cada sección integra actividades realizadas en contacto con el docente (ACD), aprendizaje autónomo (AA), aprendizaje práctico experimental (APE) y evaluaciones integradoras, permitiendo evidenciar el desarrollo progresivo de competencias relacionadas con el razonamiento lógico, el análisis matemático y la resolución de problemas.
+
+Además de reunir los trabajos realizados, este portafolio busca demostrar la evolución del aprendizaje, fortaleciendo habilidades como el pensamiento crítico, la capacidad de abstracción y la aplicación práctica de los conceptos estudiados en escenarios propios de la Ingeniería en Computación.
+
+---
+
+# 🗂️ Contenido del Portafolio
+
+| Unidad | Tema Principal | Estado |
+|---------|----------------|:------:|
+| 📘 Unidad 1 | Lógica Proposicional | ✅ |
+| 📙 Unidad 2 | Lógica Matemática y Mapas de Karnaugh | ✅ |
+| 📗 Unidad 3 | Grafos y Árboles | ✅ |
+
+---
+
+> 💡 **Objetivo del Portafolio**
+>
+> Documentar de manera organizada las evidencias académicas desarrolladas durante la asignatura de Matemáticas Discretas, demostrando el aprendizaje progresivo y la aplicación práctica de los conocimientos adquiridos.
 
 ---
 
@@ -47,28 +68,80 @@ contingencia
 </details>
 
 <details>
-<summary><b>📂 Unidad 2: ... </b></summary>
+<summary><b>📂 Unidad 2: Lógica Proposicional y Razonamiento Matemático</b></summary>
 
-*Contenido en desarrollo conforme avance el periodo académico.*
+La segunda unidad profundiza en el estudio de la lógica proposicional como base del razonamiento matemático y computacional. Se analizaron las proposiciones, operadores lógicos, tablas de verdad, reglas de inferencia, equivalencias lógicas y la simplificación de funciones booleanas mediante Mapas de Karnaugh, estableciendo su relación con la programación y el diseño de circuitos digitales.
 
-  [![Visulizar Unidad 2](https://img.shields.io/badge/ACCEDER%20A%20LA%20UNIDAD_2-CLICK%20AQUÍ-7434eb?style=for-the-badge&logo=rocket&logoColor=white)](./Unidad_2.md)
+### 📚 Temas desarrollados
+
+✅ Operadores lógicos
+
+✅ Tablas de verdad
+
+✅ Reglas de inferencia
+
+✅ Equivalencias lógicas
+
+✅ Álgebra de Boole
+
+✅ Mapas de Karnaugh
+
+✅ Aplicaciones en programación
+
+📌 **Competencias desarrolladas**
+
+- Pensamiento lógico y deductivo.
+- Resolución de problemas matemáticos.
+- Simplificación de funciones booleanas.
+- Aplicación de la lógica en programación.
+- Diseño básico de circuitos digitales.
+
+[![Visualizar Unidad 2](https://img.shields.io/badge/ACCEDER%20A%20LA%20UNIDAD_2-CLICK%20AQUÍ-7434eb?style=for-the-badge&logo=rocket&logoColor=white)](./Unidad_2.md)
 
 </details>
 
 <details>
-<summary><b>📂 Unidad 3: ... </b></summary>
+<summary><b>📂 Unidad 3: Grafos y Árboles</b></summary>
 
-*Contenido en desarrollo conforme avance el periodo académico.*
+En esta unidad se estudiaron las estructuras de datos no lineales más importantes de las Matemáticas Discretas: los grafos y los árboles. Se analizaron sus propiedades, tipos, representaciones y aplicaciones, así como algoritmos utilizados para resolver problemas relacionados con rutas, redes y estructuras jerárquicas.
 
-  [![Visulizar Unidad 3](https://img.shields.io/badge/ACCEDER%20A%20LA%20UNIDAD_3-CLICK%20AQUÍ-7434eb?style=for-the-badge&logo=rocket&logoColor=white)](./Unidad_3.md)
+### 📚 Temas desarrollados
+
+🌐 Teoría de Grafos
+
+🌳 Árboles
+
+🧩 Árboles Binarios
+
+🚦 Algoritmos de recorrido
+
+🛣️ Algoritmo de Dijkstra
+
+🔍 Búsqueda en Anchura (BFS)
+
+🌲 Búsqueda en Profundidad (DFS)
+
+📌 **Competencias desarrolladas**
+
+- Modelado de problemas mediante grafos.
+- Representación de estructuras jerárquicas.
+- Optimización de rutas.
+- Aplicación de algoritmos de búsqueda.
+- Desarrollo del pensamiento algorítmico.
+
+[![Visualizar Unidad 3](https://img.shields.io/badge/ACCEDER%20A%20LA%20UNIDAD_3-CLICK%20AQUÍ-7434eb?style=for-the-badge&logo=rocket&logoColor=white)](./Unidad_3.md)
 
 </details>
 
 ---
 
-
 ## 🏁 Conclusiones Generales
-> *Esta sección se encuentra actualmente en desarrollo y se completará al finalizar el ciclo académico.*
+
+El desarrollo de este portafolio permitió evidenciar el proceso de aprendizaje alcanzado durante la asignatura de **Matemáticas Discretas**, integrando los conocimientos teóricos y prácticos adquiridos en cada una de las unidades estudiadas.
+
+A lo largo del ciclo se fortalecieron competencias relacionadas con el razonamiento lógico, la resolución de problemas, el análisis matemático y la aplicación de estructuras discretas fundamentales para la Ingeniería en Computación. Temas como la lógica proposicional, los Mapas de Karnaugh, los grafos y los árboles demostraron su importancia en el diseño de algoritmos, circuitos digitales, redes de comunicación y sistemas informáticos.
+
+Finalmente, este portafolio representa no solo una recopilación de evidencias académicas, sino también el crecimiento personal y profesional alcanzado durante el proceso formativo, reflejando el compromiso con el aprendizaje continuo y el desarrollo de habilidades indispensables para el ejercicio de la ingeniería.
 
 ---
 
@@ -109,4 +182,4 @@ Loja, Ecuador - 2026
 
 ---
 
-**<strong><a href="README.md">**
+**<strong><a href="README.md">***INICIO***</a></strong>**
