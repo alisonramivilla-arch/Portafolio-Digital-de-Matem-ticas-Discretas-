@@ -219,6 +219,7 @@ Durante esta actividad se analizaron las propiedades fundamentales de los árbol
 📄 Evidencia
 
 https://drive.google.com/drive/u/0/folders/1S-F_WolO1F9-91g2imMfVj-lpBjwy4CS
+
 ---
 
 ### 📖 Aprendizaje Autónomo (AA 2)
@@ -228,6 +229,7 @@ Se realizó un ensayo donde se investigó la importancia de los árboles en info
 📄 Evidencia
 
 https://drive.google.com/file/d/1uEzNUvV5LYdAflzzINlNV81xwKQd9eyv/view?usp=sharing
+
 ---
 
 # 🚀 Aprendizaje Práctico Experimental (APE)
@@ -274,5 +276,5 @@ Su aplicación se extiende desde redes sociales hasta inteligencia artificial, p
 El estudio de estas estructuras fortalece el pensamiento lógico y proporciona las bases para comprender algoritmos avanzados utilizados actualmente en el desarrollo de software.
 
 
-<strong><a href="Portafolio.md">
+**<strong><a href="Portafolio.md">***PORTAFOLIO***</a></strong>**
 
