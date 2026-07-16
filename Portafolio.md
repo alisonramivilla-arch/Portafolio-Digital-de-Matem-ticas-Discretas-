@@ -109,4 +109,4 @@ Loja, Ecuador - 2026
 
 ---
 
-**<strong><a href="README.md">***I
+**<strong><a href="README.md">**
